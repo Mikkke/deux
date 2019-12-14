@@ -1,3 +1,4 @@
  ceci est un fichier de qualité
  Avec une modification
  et rajout du message de commit
+depuis ma machine en locale
